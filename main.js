@@ -8,3 +8,5 @@ console.log('Hola otra vez desde merge-with-rebase'); // Este es un comentario d
 
 console.log('Hola desde diverged-with-rebase');
 console.log('Hola otra vez desde diverged-with-rebase');
+
+console.log('Hola desde update-with-rebase');
